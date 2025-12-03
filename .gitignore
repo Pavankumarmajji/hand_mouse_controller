@@ -1,0 +1,9 @@
+# Example .gitignore content
+node_modules/
+.env
+*.log
+.DS_Store
+dist/
+build/
+*.pyc
+__pycache__/
