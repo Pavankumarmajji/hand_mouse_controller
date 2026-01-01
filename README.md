@@ -59,8 +59,9 @@ A sophisticated computer control system that lets you operate your computer enti
   ```
 3. **Run the application**
 ```bash
-    python gesture_controller.py
+    python app.py
  ```
+
 
 
 
